@@ -2,7 +2,7 @@
 **I'm Mya Lau, a Web Developer and Designer**  
 
 ## NOW  
-🎯 Crafting sleek, functional websites with **HTML**, **CSS**, and **JavaScript**  
+🎯 Crafting sleek, functional websites with **HTML**, **CSS**, **JavaScript**, and **WordPress**  
 
 ## BIO  
 🏢 Focused on creating accessible and visually engaging web experiences  
