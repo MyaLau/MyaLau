@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi there 👋  
+**I'm Mya Lau, a Web Developer and Designer**  
 
-<!--
-**happy4mya/happy4mya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## NOW  
+🎯 Crafting sleek, functional websites with **HTML**, **CSS**, and **JavaScript**  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## BIO  
+🏢 Focused on creating accessible and visually engaging web experiences  
+🎨 Passionate about **creativity**, **user experience**, and **modern design**  
+🌱 Always improving my skills to deliver purposeful and modern designs  
+💬 Ping me about **web design**, **WordPress**, or **front-end development**  
+⚡ Fun fact: I speak fluent Spanish, Cantonese, and Mandarin, and I can understand Portuguese 🌎
